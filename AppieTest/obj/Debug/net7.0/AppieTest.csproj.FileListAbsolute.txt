@@ -1,0 +1,15 @@
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/bin/Debug/net7.0/AppieTest
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/bin/Debug/net7.0/AppieTest.deps.json
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/bin/Debug/net7.0/AppieTest.runtimeconfig.json
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/bin/Debug/net7.0/AppieTest.dll
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/bin/Debug/net7.0/AppieTest.pdb
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/obj/Debug/net7.0/AppieTest.csproj.AssemblyReference.cache
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/obj/Debug/net7.0/AppieTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/obj/Debug/net7.0/AppieTest.AssemblyInfoInputs.cache
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/obj/Debug/net7.0/AppieTest.AssemblyInfo.cs
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/obj/Debug/net7.0/AppieTest.csproj.CoreCompileInputs.cache
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/obj/Debug/net7.0/AppieTest.dll
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/obj/Debug/net7.0/refint/AppieTest.dll
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/obj/Debug/net7.0/AppieTest.pdb
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/obj/Debug/net7.0/AppieTest.genruntimeconfig.cache
+/Users/bakkouy2005/RiderProjects/AppieTest/AppieTest/obj/Debug/net7.0/ref/AppieTest.dll
